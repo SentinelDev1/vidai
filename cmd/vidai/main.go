@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/igolaizola/vidai"
+	"github.com/SentinelDev1/vidai"
 	"github.com/peterbourgon/ff/v3"
 	"github.com/peterbourgon/ff/v3/ffcli"
 )
