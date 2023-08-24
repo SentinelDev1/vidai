@@ -1,4 +1,4 @@
-module github.com/igolaizola/vidai
+module github.com/SentinelDev1/vidai
 
 go 1.20
 
